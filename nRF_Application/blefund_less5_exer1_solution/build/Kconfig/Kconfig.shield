@@ -1,0 +1,2 @@
+osource "/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/boards/shields/*/Kconfig.shield"
+osource "/home/niklas/ncs/v2.4.1/nrf/boards/shields/*/Kconfig.shield"

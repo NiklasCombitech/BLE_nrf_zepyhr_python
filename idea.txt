@@ -1,0 +1,13 @@
+* Establish a connection between a nRF5340DK to a PC running a python application.
+
+* Python Bluetooth alternatives: PyBluez
+
+* Level 4: Authenticated LE Secure Connections pairing with encryption
+
+* Send input from the 4 buttons on the nRF5340DK to the python application.
+
+* Write an easy to use interface for the received input so it can easly be used as input.
+
+* Explore adding my own buttons to the board? And sending their data.
+
+* Send data to board from the python app to display stuff on the leds.

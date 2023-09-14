@@ -1,0 +1,13 @@
+# Target labels
+ tfm
+# Source files and their labels
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/CMakeFiles/tfm
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/CMakeFiles/tfm.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/CMakeFiles/tfm-complete.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-build.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-configure.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-download.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-install.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-mkdir.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-patch.rule
+/home/niklas/myBLEProject/nRF_Application/blefund_less5_exer1_solution/build/modules/trusted-firmware-m/tfm-prefix/src/tfm-stamp/tfm-update.rule
