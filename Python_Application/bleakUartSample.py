@@ -74,6 +74,8 @@ async def uart_terminal():
 
         print("Connected, start typing and press ENTER...")
 
+        
+
         loop = asyncio.get_running_loop()
         nus = client.services.get_service(UART_SERVICE_UUID)
         rx_char = nus.get_characteristic(UART_RX_CHAR_UUID)
